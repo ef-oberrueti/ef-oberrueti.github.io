@@ -1,0 +1,6 @@
+- name: Bevorstehende Anlässe
+  link: /events/next.html
+- name: Alle Anlässe
+  link: /events/all.html
+- name: Über uns
+  link: /about.html
