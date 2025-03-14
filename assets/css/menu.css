@@ -30,6 +30,17 @@ body {
 
 }
 
+strong {
+  color: var(--efBlue);
+  font-weight: bolder;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
 .image_block {
   width: 100%;
   height: auto;
