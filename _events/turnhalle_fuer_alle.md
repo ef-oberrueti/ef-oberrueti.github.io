@@ -2,58 +2,6 @@
 layout: default
 title: Turnhalle für Alle
 short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
-dates:
-  - 
-    from: 2023-10-15
-    year: 2023
-    to:
-    cover: turnhalle.jpg
-  - 
-    from: 2023-12-10
-    year: 2023
-    to:   
-    cover: turnhalle2.jpg
-  - 
-    from: 2024-03-03
-    year: 2024
-    to:
-    cover: patrick-schneider-bcxige33b0c-unsplash.jpg
-  - 
-    from: 2024-05-05
-    year: 2024
-    to:
-    cover: jorgen-hendriksen-hildqmhkz30-unsplash-low.jpg
-  -  
-    from: 2024-10-27
-    year: 2024
-    to:
-    cover: jorgen-hendriksen-sabe8pqqawm-unsplash-low.jpg
-  -  
-    from: 2024-12-15
-    year: 2024
-    to:
-    cover: turnhalle.jpg
-  -  
-    from: 2025-03-09
-    year: 2025
-    to:
-    cover: turnhalle2.jpg
-  -  
-    from: 2025-05-18
-    year: 2025
-    to:
-    cover: patrick-schneider-bcxige33b0c-unsplash.jpg
-  -  
-    from: 2025-09-21
-    year: 2025
-    to:
-    cover: jorgen-hendriksen-hildqmhkz30-unsplash-low.jpg
-  -  
-    from: 2025-11-09
-    year: 2025
-    to:
-    cover: jorgen-hendriksen-sabe8pqqawm-unsplash-low.jpg
-
 ---
 Liebe Schülerinnen und Schüler der **1. bis 6. Klasse** von Oberrüti,
 

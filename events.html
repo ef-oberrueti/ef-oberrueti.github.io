@@ -3,26 +3,22 @@ title: Veranstaltungen
 permalink: /events.html
 layout: events
 ---
-
 <ul>
-  {% for event in site.events %}
-    {% assign dates2025 = event.dates | where:"year", "2025" %}
 
-    {% for date in dates2025  %}      
+  {% for event in site.data.events.y2025 %}        
   <li style="--accent-color:#3B3B54;
 --bullet:var(--hand_black);">
-      <div class="date">{{ date.from | date: "%d.%m.%Y" }}</div>
+      <div class="date">{{ event.from | date: "%d.%m.%Y" }} {% if event.to %} - {% endif %} {{ event.to | date: "%d.%m.%Y" }}</div>
       <div class="title">
           <a class="proj_title
-          " href="{{ event.url }}">{{ event.title }}</a>
+          " href="{{ event.link }}">{{ event.title }}</a>
       </div>
   <div class="descr">
-    <a href="{{ event.url }}">
-        <img src="/assets/img/{{date.cover}}" class="img_small" alt="">
+    <a href="{{ event.link }}">
+        <img src="/assets/img/{{event.cover}}" class="img_small" alt="">
     </a>
      <p>{{ event.short }}</p>
   </div>
-  </li>
-  {% endfor %}
+  </li>  
 {% endfor %}
 </ul>
