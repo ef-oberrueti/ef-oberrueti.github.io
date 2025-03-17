@@ -1,6 +1,6 @@
 - name: Bevorstehende Anlässe
-  link: /events.html?coming
+  link: /
 - name: Alle Anlässe
-  link: /events.html
+  link: /index.html?all
 - name: Über uns
   link: /about.html
