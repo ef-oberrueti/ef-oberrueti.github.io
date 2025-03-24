@@ -2,6 +2,7 @@
 layout: default
 title: FerienSpass
 short: Mit dem FerienSpass Oberrüti kommt im Sommer keine Langeweile auf!
+flyer: flyer-fs-2024_a4.png
 ---
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/flyer-fs-2024_a4.png){:width="50%" text-align=center}

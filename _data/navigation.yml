@@ -1,6 +1,8 @@
-- name: Bevorstehende Anlässe
+- name: Home
   link: /
-- name: Alle Anlässe
-  link: /index.html?all
-- name: Über uns
+- name: Projekte
+  link: /projects.html
+- name: Verein
   link: /about.html
+- name: Mitglied werden
+  link: /join.html
