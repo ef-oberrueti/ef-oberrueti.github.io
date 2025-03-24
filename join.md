@@ -7,7 +7,7 @@ Das Elternforum Oberrüti organisiert zahlreiche spannende Angebote für Familie
 
 Damit wir auch in Zukunft diese Angebote aufrechterhalten und weiterentwickeln können, sind wir auf engagierte Mitglieder angewiesen.  
 
-💡 Als Mitglied…
+💡 Als Mitglied…  
 …entscheidest du selbst, wann, wo und wie häufig du das Elternforum unterstützen möchtest.  
 …gestaltest du aktiv das Gemeindeleben mit und setzt dich für Familien in Oberrüti ein.  
 …lernst du viele andere engagierte Eltern kennen und erweiterst dein Netzwerk.  
