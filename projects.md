@@ -7,7 +7,6 @@ title: Projekte
 ## {{ project.title }}
 {{project.short}}
 
-()
 [![image](/assets/img/{{ project.flyer }}){:style="width: 25%; text-align: center;" }]({{ project.url }})
 {: refdef}
 
