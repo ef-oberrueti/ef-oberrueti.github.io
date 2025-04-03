@@ -3,6 +3,11 @@ layout: default
 title: Verein
 ---
 
+{:refdef: style="text-align: center;"}
+![image](/assets/img/1.svg){:width="50%" text-align=center}
+{: refdef}
+
+
 Das **Elternforum Oberrüti** ist eine engagierte Gemeinschaft von Eltern, die sich für ein unterstützendes und lebendiges Umfeld für Kinder und Familien in unserer Gemeinde einsetzt.  
 
 Wir verstehen uns als **Plattform für Austausch**, **Gemeinschaft** und **Engagement** und möchten Eltern die Möglichkeit bieten, sich aktiv einzubringen, Erfahrungen zu teilen und gemeinsam Veranstaltungen sowie Projekte zu gestalten.  

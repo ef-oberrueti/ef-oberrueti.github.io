@@ -182,21 +182,27 @@ main {
 
 .logo-title {
     position: absolute;
-    top: 5px;
-    right: 130px;
+    top: 0px;
+    right: 15px;
     height: 60px;
     width: 100px;
     text-align: center;
+    background-image:url("../img/Elternforum.png");
+    background-size: contain;
+    height: 60px;
+    width: 150px ;
 }
 
 .logo {
+  visibility: hidden;
   position: absolute;  
   right: 15px;
   font-size: 1.2rem;
   color: #0e2431;
-  background-image:url("../img/Logo_klein.png");
+  background-image:url("../img/3.png");
+  background-size: cover;
   height: 60px;
-  width:114px ;
+  width: 60px ;
 }
 
 .nav-container input[type="checkbox"]:checked ~ .menu-items {
