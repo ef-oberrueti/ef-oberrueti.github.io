@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projekte
+keywords: Bücher, Spielzeug, Flohmarkt, Eltern, Elternkafi, Kaffee, FerienSpass, Ferienpass, Ferien, Kinder, Schule, Oberrüti, Turnhalle für Alle, Offene Turnhalle, Sport, Spass, Vorträge, Elternvorträge
 ---
 
 {% for project in site.events %}

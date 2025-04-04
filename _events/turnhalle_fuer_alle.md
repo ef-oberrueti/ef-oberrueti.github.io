@@ -3,6 +3,8 @@ layout: default
 title: Turnhalle für Alle
 short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
 flyer: Turnhalle für Alle.png
+description: Ein Sonntagvormittag voller Spiel, Spaß und Sport für Kinder der 1. bis 6. Klasse in Oberrüti.
+keywords: Eltern, Kinder, Schule, Oberrüti, Turnhalle für Alle, Offene Turnhalle, Sport, Spass
 ---
 Liebe Schülerinnen und Schüler der **1. bis 6. Klasse** von Oberrüti,
 

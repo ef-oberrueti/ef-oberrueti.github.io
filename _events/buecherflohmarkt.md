@@ -3,6 +3,8 @@ layout: default
 title: Bücher- und Spielzeug-Flohmarkt
 short: Verkaufe dein Bücher und/oder kauf dir neue :-)
 flyer: Flohmarkt.png
+description: Kinder verkaufen und kaufen Bücher und Spielzeug auf dem Schulhaus-Pausenplatz in Oberrüti.
+keywords: Bücher, Spielzeug, Flohmarkt, Eltern, Kinder, Schule, Oberrüti, Spass
 ---
 
 Das Elternforum Oberrüti organisiert auf dem Schulhaus-Pausenplatz einen Bücherflohmarkt für Kinder. Dieser bietet Kindern die Möglichkeit ihre nicht mehr gebrauchten Bilder- Kinder- und Jugendbücher zum Verkauf anzubieten als auch bei anderen Kindern wieder interessante Exemplare zu finden und abzukaufen.

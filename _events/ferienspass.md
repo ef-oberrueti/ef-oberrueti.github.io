@@ -3,6 +3,8 @@ layout: default
 title: FerienSpass
 short: Mit dem FerienSpass Oberrüti kommt im Sommer keine Langeweile auf!
 flyer: flyer-fs-2024_a4.png
+description: Spannende Sommerferienkurse für Kinder in Oberrüti, organisiert vom Elternforum.
+keywords: Eltern, FerienSpass, Ferienpass, Ferien, Kinder, Schule, Oberrüti, Sport, Spass, Sommer
 ---
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/flyer-fs-2024_a4.png){:width="50%" text-align=center}
