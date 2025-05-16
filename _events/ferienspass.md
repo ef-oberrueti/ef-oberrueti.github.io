@@ -7,7 +7,7 @@ description: Spannende Sommerferienkurse für Kinder in Oberrüti, organisiert v
 keywords: Eltern, FerienSpass, Ferienpass, Ferien, Kinder, Schule, Oberrüti, Sport, Spass, Sommer
 ---
 {:refdef: style="text-align: center;"}
-![image](/assets/img/flyer-fs-2024_a4.png){:width="50%" text-align=center}
+![image](/assets/img/flyer-fs-2025.png){:width="50%" text-align=center}
 {: refdef}
 
 Mit dem FerienSpass Oberrüti kommt im Sommer keine Langeweile auf! Wir bieten dir spannende, lehrreiche und knifflige Kurse und dazu noch Kontakt mit tollen Gspänli.
