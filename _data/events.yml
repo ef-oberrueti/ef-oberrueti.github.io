@@ -82,6 +82,11 @@ y2025:
     cover: Elternkafi.png
     short: Erster Schultag! Lerne das Elternforum kennen und triff dich mit anderen Eltern.
     link: events/elternkafi.html
+  - title: Geschwisterstreit
+    from: 2025-09-18
+    cover: GeschwisterStreit.png
+    short: Geschwisterstreit als Eltern gut begleiten.
+    link: events/geschwisterstreit.html
   - title: Turnhalle für Alle
     from: 2025-09-21
     to:
