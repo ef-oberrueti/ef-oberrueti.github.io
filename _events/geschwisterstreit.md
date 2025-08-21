@@ -21,4 +21,4 @@ Musiksaal Oberrüti
 Unkostenbeitrag von CHF 10.  
 –  
 Die Teilnehmerzahl ist begrenzt – Anmeldung erforderlich unter  
-[ef-oberrueti@gmx.ch](mailto:ef-oberrueti@gmx.ch)
+[ef-oberrueti@gmx.ch](mailto:ef-oberrueti@gmx.ch?subject=Anmeldung%20Vortrag%20Geschwisterstreit%20vom%2018.%20September%202025)
