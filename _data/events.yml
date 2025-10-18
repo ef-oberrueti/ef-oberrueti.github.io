@@ -93,9 +93,16 @@ y2025:
     cover: Turnhalle für Alle.png
     short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
     link: events/turnhalle_fuer_alle.html
+  - title: Laternliumzug
+    from: 2025-11-06
+    to:
+    cover: Laternliumzug.jpeg
+    short: Kommt mit euren Laternen und lasst Oberrüti im Lichterglanz erstrahlen!
+    link: events/Laternliumzug.html
   - title: Turnhalle für Alle
     from: 2025-11-09
     to:
     cover: Turnhalle für Alle.png
     short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
     link: events/turnhalle_fuer_alle.html
+  
