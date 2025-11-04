@@ -14,4 +14,4 @@ Damit wir auch in Zukunft diese Angebote aufrechterhalten und weiterentwickeln k
 
 Ob du uns gelegentlich bei Veranstaltungen unterstützt, neue Ideen einbringst oder einfach Teil unserer Gemeinschaft sein möchtest – wir freuen uns auf dich!  
 
-✉️ Melde dich unter [ef-oberrueti@gmx.ch](mailto:ef-oberrueti@gmx.ch) oder sprich ein Vereinsmiglied an.
+✉️ Melde dich unter [info@elternforum-oberrueti.ch](mailto:info@elternforum-oberrueti.ch) oder sprich ein Vereinsmiglied an.
