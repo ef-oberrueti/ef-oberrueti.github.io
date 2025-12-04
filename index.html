@@ -22,10 +22,21 @@ description: Elternforum Oberrüti - Gemeinsam für unsere Kinder und Familien �
 </p>
 <h1>kommende Anlässe</h1>
 <ul>
-  {% for event in site.data.events.y2025 %}        
+  {% assign months = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" | split: "," %}
+  {% for event in site.data.events.y2026 %}
+      {% assign from_month = event.from | date: "%-m" | minus: 1 %}
+      {% assign from_date = event.from | date: "%-d" %}
+      {% assign from_year = event.from | date: "%Y" %}
+      {% assign from_formatted = from_date | append: ". " | append: months[from_month] | append: " " | append: from_year %}
+      {% if event.to %}
+        {% assign to_month = event.to | date: "%-m" | minus: 1 %}
+        {% assign to_date = event.to | date: "%-d" %}
+        {% assign to_year = event.to | date: "%Y" %}
+        {% assign to_formatted = to_date | append: ". " | append: months[to_month] | append: " " | append: to_year %}
+      {% endif %}
   <li class="event-item" style="--accent-color:#3B3B54;
 --bullet:var(--hand_black);" data-event-from="{{ event.from }}" data-event-to="{{ event.to }}">
-      <div class="date">{{ event.from | date: "%d.%m.%Y" }} {% if event.to %} - {% endif %} {{ event.to | date: "%d.%m.%Y" }}</div>
+      <div class="date">{{ from_formatted }}{% if event.to %} - {{ to_formatted }}{% endif %}</div>
       <div class="title">
           <a class="proj_title
           " href="{{ event.link }}">{{ event.title }}</a>

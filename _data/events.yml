@@ -105,4 +105,70 @@ y2025:
     cover: Turnhalle für Alle.png
     short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
     link: events/turnhalle_fuer_alle.html
-  
+y2026:
+  - title: Turnzwerge
+    from: 2026-01-18
+    to:
+    cover: Turnzwerge_Cover.png
+    short: Ein Ort zum Spielen, Bewegen und Lachen für Kinder von 0 bis 6 Jahren in Begleitung von mind. einem Erwachsenen.
+    link: events/turnzwerge.html
+  - title: Turnzwerge
+    from: 2026-02-22
+    to:
+    cover: Turnzwerge_Cover2.png
+    short: Ein Ort zum Spielen, Bewegen und Lachen für Kinder von 0 bis 6 Jahren in Begleitung von mind. einem Erwachsenen.
+    link: events/turnzwerge.html
+  - title: Turnhalle für Alle
+    from: 2026-03-08
+    to:
+    cover: TfA_Cover1.png
+    short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
+    link: events/turnhalle_fuer_alle.html
+  - title: Vortrag
+    from: 2026-05-02
+    to:
+    cover: Flyer - Elternbildung Vortrag.png
+    short: Thema noch offen - An diesem Vortrag dreht sich alles um ein spannendes Thema rund ums Familienleben. Informativ, alltagsnah und mit Aha-Momenten.
+    link: events/vortrag.html
+  - title: Turnhalle für Alle
+    from: 2026-05-10
+    to:
+    cover: TfA_Cover2.png
+    short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
+    link: events/turnhalle_fuer_alle.html
+  - title: Kinder Flohmi
+    from: 2026-05-13
+    to:
+    cover: Flohmarkt.png
+    short: Ein Flohmarkt speziell für Kinder. Hier können sie ihre Spielsachen und Bücher verkaufen und gleichzeitig neue Schätze entdecken.
+    link: events/buecherflohmarkt.html
+  - title: Ferienspass
+    from: 2026-08-03
+    to: 2026-08-08
+    cover: flyer-fs-2025.png
+    short: Mit dem FerienSpass Oberrüti kommt im Sommer keine Langeweile auf!
+    link: events/ferienspass.html
+  - title: Elternkaffi
+    from: 2026-08-10
+    to:
+    cover: Elternkafi.png
+    short: Erster Schultag! Lerne das Elternforum kennen und triff dich mit anderen Eltern.
+    link: events/elternkafi.html
+  - title: Turnhalle für Alle
+    from: 2026-10-18
+    to:
+    cover: TfA_Cover3.png
+    short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
+    link: events/turnhalle_fuer_alle.html
+  - title: Spielrausch
+    from: 2026-10-25
+    to:
+    cover: Flyer - Spielrausch.png
+    short: Oberrüti spielt - Würfeln, lachen, knobeln! Ein ganzer Tag voller Brettspielspass für Gross und Klein.
+    link: events/spielrausch.html
+  - title: Turnhalle für Alle
+    from: 2026-12-13
+    to:
+    cover: TfA_Cover4.png
+    short: Die Schülerinnen und Schüler der 1. – 6. Klasse von Oberrüti sind herzlich eingeladen zu Spiel & Spass am Sonntagmorgen in der Doppelturnhalle.
+    link: events/turnhalle_fuer_alle.html
