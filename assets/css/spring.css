@@ -71,6 +71,37 @@ body {
 .petal:nth-child(19) { left: 5%;  animation-duration: 12s; animation-delay: 0.4s; font-size: 0.8em; color: #F48FB1; }
 .petal:nth-child(20) { left: 17%; animation-duration: 14s; animation-delay: 2.1s; font-size: 1.1em; color: #FFCC80; }
 
+/* Biene – fliegt von rechts nach links, dann Pause */
+.bee {
+  position: fixed;
+  top: 20%;
+  left: 0;
+  z-index: 9998;
+  font-size: 1.8em;
+  pointer-events: none;
+  user-select: none;
+  /* flight path on wrapper */
+  animation: beeflight 22s ease-in-out infinite;
+}
+
+@keyframes beeflight {
+  0%   { translate: 112vw  0vh;  opacity: 1; }
+  10%  { translate:  90vw  3vh;  opacity: 1; }
+  20%  { translate:  70vw -2vh;  opacity: 1; }
+  30%  { translate:  50vw  4vh;  opacity: 1; }
+  40%  { translate:  30vw -2vh;  opacity: 1; }
+  50%  { translate:  10vw  3vh;  opacity: 1; }
+  55%  { translate: -12vw  1vh;  opacity: 1; }
+  56%  { translate: -12vw  1vh;  opacity: 0; }
+  57%  { translate: 112vw  0vh;  opacity: 0; }
+  100% { translate: 112vw  0vh;  opacity: 0; }
+}
+
+@keyframes beewing {
+  0%,100% { scale: 1 1;    }
+  50%     { scale: 1 0.80; }
+}
+
 /* Frühlings-Akzent für Event-Karten */
 ul li .title::before {
   background: var(--spring-green) !important;
