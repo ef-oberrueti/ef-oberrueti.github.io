@@ -8,3 +8,6 @@ _site/
 vendor/
 
 .DS_Store
+
+# Runtime files from local tooling
+.blok/
