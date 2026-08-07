@@ -2,7 +2,7 @@
 layout: default
 title: Spielrausch
 short: Oberrüti spielt - Würfeln, lachen, knobeln! Ein ganzer Tag voller Brettspielspass für Gross und Klein.
-flyer: Flyer - Spielrausch.png
+flyer: Flyer_Spielrausch_2026.png
 description: Brettspieltag für die ganze Familie in Oberrüti - Würfeln, lachen, knobeln! Spaß für Groß und Klein.
 keywords: Eltern, Spielrausch, Brettspiele, Spielen, Familie, Kinder, Oberrüti, Gesellschaftsspiele, Familientag
 ---
@@ -10,7 +10,7 @@ keywords: Eltern, Spielrausch, Brettspiele, Spielen, Familie, Kinder, Oberrüti,
 
 Das Elternforum Oberrüti lädt zum ersten **Spielrausch** ein - ein ganzer Tag voller Brettspielspaß für Groß und Klein!
 
-**Wann?** 25. Oktober 2026
+**Wann?** 25. Oktober 2026, 15:00 – 20:00 Uhr
 
 **Wo?** Vereinslokal Oberrüti
 
@@ -38,3 +38,5 @@ Euer Elternforum Oberrüti
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/{{page.flyer}}){:width="50%" text-align=center}
 {: refdef}
+
+[Flyer als PDF herunterladen](/assets/img/Flyer_Spielrausch_2026.pdf){:target="_blank"}
