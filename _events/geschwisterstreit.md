@@ -5,6 +5,7 @@ short: Geschwisterstreit als Eltern gut begleiten.
 flyer: Elternkafi.png
 description: Hilfe, unsere Kinder streiten! - Geschwisterstreit als Eltern gut begleiten.
 keywords: Eltern, Vortrag, Streit, Kinder, Schule, Oberrüti, Geschwister, Familie, Referat
+hide_from_projects: true
 ---
 Kennen Sie das auch? Eben noch haben Ihre Kinder friedlich miteinander gespielt, nun fliegen die Fetzen. Schon wieder!  
 
