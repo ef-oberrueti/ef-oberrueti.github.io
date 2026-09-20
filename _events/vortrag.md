@@ -5,6 +5,7 @@ short: Thema noch offen - An diesem Vortrag dreht sich alles um ein spannendes T
 flyer: Flyer - Elternbildung Vortrag.png
 description: Elternvortrag zu einem spannenden Thema rund ums Familienleben - informativ, alltagsnah und mit Aha-Momenten.
 keywords: Eltern, Vortrag, Familienleben, Elternbildung, Erziehung, Oberrüti, Elternforum, Weiterbildung
+hide_from_projects: true
 ---
 **Thema wird noch bekannt gegeben**
 
