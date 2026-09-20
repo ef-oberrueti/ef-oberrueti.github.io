@@ -160,6 +160,12 @@ y2026:
     cover: Flyer_Spielrausch_2026.png
     short: Oberrüti spielt - Würfeln, lachen, knobeln! Ein ganzer Tag voller Brettspielspass für Gross und Klein.
     link: events/spielrausch.html
+  - title: Turnzwerge
+    from: 2026-11-29
+    to:
+    cover: Flyer_Turnzwerge_2026.png
+    short: Ein Ort zum Spielen, Bewegen und Lachen für Kinder von 0 bis 6 Jahren in Begleitung von mind. einem Erwachsenen.
+    link: events/turnzwerge.html
   - title: Turnhalle für Alle
     from: 2026-12-13
     to:
